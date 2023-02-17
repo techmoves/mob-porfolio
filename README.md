@@ -109,7 +109,7 @@ Example commands:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Phelelani Ndlovu**
 
 - GitHub: [@githubhandle](https://github.com/techmoves)
 - Twitter: [@twitterhandle](https://twitter.com/Dopezonke_)
