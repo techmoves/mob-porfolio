@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > mobile version of my personal portfolio.
 
-**[ mobile first postfolio]** is a...
+** mobile first postfolio ** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
