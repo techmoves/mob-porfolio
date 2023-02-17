@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 mobile 1st portflio <a name="about-project"></a>
+# 📖 Mobile 1st Portflio <a name="about-project"></a>
 
 > mobile version of my personal portfolio.
 
